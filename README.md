@@ -13,6 +13,6 @@ List_Words_Exp1.docx --> List and characteristics of the affective stimuli in th
 ## Experiment 2
 Data_Exp2.xslx --> Data of the second experiment
 
-Exp2.zip --> All the materials (raw and transformed sounds) used in the second experiment
+Exp2_1.zip, Exp2_2.zip, Exp2_3.zip --> All the materials (raw and transformed sounds) used in the second experiment
 
 List_Words_Exp2.docx --> List and characteristics of the affective stimuli in the second experiment
