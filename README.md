@@ -1,6 +1,6 @@
 # Being Moved by Core Affect: Generalized Approach/Avoidance Responses to Degraded Affective Stimuli
 
-We present the data and materials for the two studies of the paper.
+We present the data and materials for the two studies.
 
 ## Experiment 1
 Data_Exp1.xslx --> Data of the first experiment
